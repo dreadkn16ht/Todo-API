@@ -16,7 +16,7 @@ Disclaimer! <strong>Today it is not recommended to use vanilla php to make api, 
   That code is just example of api on vanilla php and nothing more
 </strong>
 
-For usage you have to change ``connection.php`` file and add there credentials of your database (database should contain Id(AI), title and body tables)
+For usage you have to change ``connect.php`` file and add there credentials of your database (database should contain Id(AI), title and body tables)
 
 -------------------------------------------
 
