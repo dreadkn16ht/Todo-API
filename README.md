@@ -20,4 +20,4 @@ For usage you have to change ``connection.php`` file and add there credentials o
 
 -------------------------------------------
 
-Feel free to fork that code and use/change it! 🤝
+Feel free to fork code and use/change it! 🤝
