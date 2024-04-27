@@ -6,7 +6,7 @@ This is an api written on vanilla php without any third party library or framewo
 
 Easiest way to handle api requests on php without frameworks and oop.
 
-For database there's used MySql to store data.
+For database there's MySql and for Server it's oldschool apache.
 
 It also has basic sql injection protection with <strong>parameterized queries</strong>
 
