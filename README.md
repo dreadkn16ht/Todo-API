@@ -12,7 +12,7 @@ It also has basic sql injection protection with <strong>parameterized queries</s
 
 Supported methods: ``GET,POST,PATCH,DELETE``
 
-Disclaimer! <strong>Today it is not reccomended to use vanilla php to make api, for such projects it is reccomended to use Laravel or Symfony frameworks, which grants more flexibility and security fo a code
+Disclaimer! <strong>Today it is not recommended to use vanilla php to make api, for such projects it is reccomended to use Laravel or Symfony frameworks, which grants more flexibility and security fo a code
   That code is just example of api on vanilla php and nothing more
 </strong>
 
