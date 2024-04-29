@@ -1,7 +1,5 @@
 <?php
 
-//TODO: Sql injection prevention, Docker, comments
-
 //showing errors if there's any
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
